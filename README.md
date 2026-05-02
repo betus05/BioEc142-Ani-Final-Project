@@ -30,6 +30,13 @@ Final test MAE: **0.30 kcal/mol** (mean of two production trials)
 ## Files
 
 - `ANI_Final_Project_complete.ipynb` — final notebook including all trials and final model
+- `ANI_Final_Project_Report.pdf` - final written report summarizing findings and methods
+- `project_ckpt1_complete.pdf` -checkpoints with weekly progress, all plots contianed within checkpoint pdfs
+- `project_ckpt2_complete.pdf`
+- `project_ckpt3.pdf`
+- `project_ckpt4.pdf`
+- `project_ckpt5.pdf`
+- `project_ckpt5-2.pdf`
 
 ## Dataset
 
